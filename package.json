@@ -2,7 +2,7 @@
   "name": "tamplet-practice",
   "version": "1.0.0",
   "description": "",
-  "homepages": "https://zxcmimis.github.io/tamplet-practice/",
+  "homepage": "https://zxcmimis.github.io/tamplet-practice/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npx parcel scr/index.html",
@@ -20,11 +20,13 @@
   "bugs": {
     "url": "https://github.com/ZxcMimis/tamplet-practice/issues"
   },
-  "homepage": "https://github.com/ZxcMimis/tamplet-practice#readme",
+  "homepages": "https://github.com/ZxcMimis/tamplet-practice#readme",
   "devDependencies": {
     "parcel": "^2.13.3"
   },
   "dependencies": {
-    "gh-pages": "^6.3.0"
+    "gh-pages": "^6.3.0",
+    "handlebars": "^4.7.8",
+    "parcel-transformer-hbs": "^1.0.4"
   }
 }

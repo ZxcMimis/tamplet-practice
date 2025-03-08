@@ -1,0 +1,37 @@
+{
+    "pizzas": [
+    {
+        "title": "Margarita",
+        "price": 270,
+        "photo": "https://lh3.googleusercontent.com/-F7-f2RyixFJ_0-MIGehlz7lp08CkWuy7Y64qDx8zcSrAyHA_uWVnJx1XOVAHg_qoFD7fW34aWScKlOz7tlHx8LeBxDoB64vaZ6LCKKMAPPnr8-QTpPpQVVK-xGPWFZomSVkVZXW"
+ 
+    },
+    {
+     "title": "Paperoni",
+        "price": 360,
+        "photo": "https://instafood.com.ua/images/images/pitsa-pepperoni.jpg"   
+    },
+    {
+        "title": "Hawaiina",
+        "price": 320,
+        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxVCp7mW_cd5lLK3n5ARdaLhQANCOIHQoGnw&s"   
+    },
+    {
+        "title": "Vegetarian",
+        "price": 350,
+        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo78ewyUiqTX08vjLJJXlvyuhNHRRCnomkYQ&s"   
+    },
+    {
+        "title": "Seafood",
+        "price": 250,
+        "photo": "https://images.squarespace-cdn.com/content/v1/5e3b571c57c3897ac7789b45/1580959991308-Y71RDBC7B8YFV53A9B2K/2020_Angelakis_MarinaraMix_Pizza_Website-1.jpg"
+
+    },
+    {
+        "title": "four chees",
+        "price": 500,
+        "photo": "https://eu.gozney.com/cdn/shop/articles/Four_Cheese_Pizza_Feng_Chen_-_Large1.jpg?v=1696535161"
+    }
+
+]
+}
