@@ -2,6 +2,7 @@
   "name": "tamplet-practice",
   "version": "1.0.0",
   "description": "",
+  "homepages": "https://zxcmimis.github.io/tamplet-practice/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npx parcel scr/index.html",
